@@ -1,0 +1,455 @@
+Name,API Name,Instance Memory,vCPUs,Instance Storage,Network Performance,On Demand
+U-12TB1 112xlarge,u-12tb1.112xlarge,12288.0 GiB,448 vCPUs,EBS only,100 Gigabit,109.20000
+U-9TB1 112xlarge,u-9tb1.112xlarge,9216.0 GiB,448 vCPUs,EBS only,100 Gigabit,81.90000
+U-6TB1 112xlarge,u-6tb1.112xlarge,6144.0 GiB,448 vCPUs,EBS only,100 Gigabit,54.60000
+U-6TB1 56xlarge,u-6tb1.56xlarge,6144.0 GiB,224 vCPUs,EBS only,100 Gigabit,46.40390
+U-3TB1 56xlarge,u-3tb1.56xlarge,3072.0 GiB,224 vCPUs,EBS only,50 Gigabit,27.30000
+X1E 32xlarge,x1e.32xlarge,3904.0 GiB,128 vCPUs,3840 GB                 (2 * 1920 GB SSD),25 Gigabit,26.68800
+R7A 48xlarge,r7a.48xlarge,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,14.60640
+R7A Metal-48xl,r7a.metal-48xl,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,14.60640
+X1E 16xlarge,x1e.16xlarge,1952.0 GiB,64 vCPUs,1920 GB                 SSD,10 Gigabit,13.34400
+X1 Extra High-Memory 32xlarge,x1.32xlarge,1952.0 GiB,128 vCPUs,3840 GB                 (2 * 1920 GB SSD),25 Gigabit,13.33800
+R7I 48xlarge,r7i.48xlarge,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,12.70080
+R7I Metal-48xl,r7i.metal-48xl,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,12.70080
+R7IZ 32xlarge,r7iz.32xlarge,1024.0 GiB,128 vCPUs,EBS only,50 Gigabit,11.90400
+R7IZ Metal-32xl,r7iz.metal-32xl,1024.0 GiB,128 vCPUs,EBS only,50 Gigabit,11.90400
+R8G Metal-48xl,r8g.metal-48xl,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,11.31070
+R8G 48xlarge,r8g.48xlarge,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,11.31070
+R6IN Metal,r6in.metal,1024.0 GiB,128 vCPUs,EBS only,200 Gigabit,11.15710
+R6IN 32xlarge,r6in.32xlarge,1024.0 GiB,128 vCPUs,EBS only,200 Gigabit,11.15710
+M7A 48xlarge,m7a.48xlarge,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,11.12830
+M7A Metal-48xl,m7a.metal-48xl,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,11.12830
+R6A 48xlarge,r6a.48xlarge,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,10.88640
+R6A Metal,r6a.metal,1536.0 GiB,192 vCPUs,EBS only,50 Gigabit,10.88640
+C7A Metal-48xl,c7a.metal-48xl,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,9.85340
+C7A 48xlarge,c7a.48xlarge,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,9.85340
+R7A 32xlarge,r7a.32xlarge,1024.0 GiB,128 vCPUs,EBS only,50 Gigabit,9.73760
+M7I Metal-48xl,m7i.metal-48xl,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,9.67680
+M7I 48xlarge,m7i.48xlarge,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,9.67680
+M6IN Metal,m6in.metal,512.0 GiB,128 vCPUs,EBS only,200 Gigabit,8.91070
+M6IN 32xlarge,m6in.32xlarge,512.0 GiB,128 vCPUs,EBS only,200 Gigabit,8.91070
+M8G Metal-48xl,m8g.metal-48xl,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,8.61700
+M8G 48xlarge,m8g.48xlarge,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,8.61700
+C7I 48xlarge,c7i.48xlarge,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,8.56800
+C7I Metal-48xl,c7i.metal-48xl,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,8.56800
+R6IN 24xlarge,r6in.24xlarge,768.0 GiB,96 vCPUs,EBS only,150 Gigabit,8.36780
+M6A 48xlarge,m6a.48xlarge,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,8.29440
+M6A Metal,m6a.metal,768.0 GiB,192 vCPUs,EBS only,50 Gigabit,8.29440
+R6I Metal,r6i.metal,1024.0 GiB,128 vCPUs,EBS only,50 Gigabit,8.06400
+R6I 32xlarge,r6i.32xlarge,1024.0 GiB,128 vCPUs,EBS only,50 Gigabit,8.06400
+C8G Metal-48xl,c8g.metal-48xl,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,7.63010
+C8G 48xlarge,c8g.48xlarge,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,7.63010
+M7A 32xlarge,m7a.32xlarge,512.0 GiB,128 vCPUs,EBS only,50 Gigabit,7.41890
+C6A 48xlarge,c6a.48xlarge,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,7.34400
+C6A Metal,c6a.metal,384.0 GiB,192 vCPUs,EBS only,50 Gigabit,7.34400
+R7A 24xlarge,r7a.24xlarge,768.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,7.30320
+C6IN Metal,c6in.metal,256.0 GiB,128 vCPUs,EBS only,200 Gigabit,7.25760
+R6A 32xlarge,r6a.32xlarge,1024.0 GiB,128 vCPUs,EBS only,50 Gigabit,7.25760
+C6IN 32xlarge,c6in.32xlarge,256.0 GiB,128 vCPUs,EBS only,200 Gigabit,7.25760
+R5N Metal,r5n.metal,768.0 GiB,96 vCPUs,EBS only,100 Gigabit,7.15200
+R5B Metal,r5b.metal,768.0 GiB,96 vCPUs,EBS only,25 Gigabit,7.15200
+R5N 24xlarge,r5n.24xlarge,768.0 GiB,96 vCPUs,EBS only,100 Gigabit,7.15200
+R5B 24xlarge,r5b.24xlarge,768.0 GiB,96 vCPUs,EBS only,25 Gigabit,7.15200
+M6IN 24xlarge,m6in.24xlarge,384.0 GiB,96 vCPUs,EBS only,150 Gigabit,6.68300
+X1E Eight Extra Large,x1e.8xlarge,976.0 GiB,32 vCPUs,960 GB                 SSD,Up to 10 Gigabit,6.67200
+X1 Extra High-Memory 16xlarge,x1.16xlarge,976.0 GiB,64 vCPUs,1920 GB                 SSD,10 Gigabit,6.66900
+C7A 32xlarge,c7a.32xlarge,256.0 GiB,128 vCPUs,EBS only,50 Gigabit,6.56900
+R7I Metal-24xl,r7i.metal-24xl,768.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,6.35040
+R7I 24xlarge,r7i.24xlarge,768.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,6.35040
+M6I 32xlarge,m6i.32xlarge,512.0 GiB,128 vCPUs,EBS only,50 Gigabit,6.14400
+M6I Metal,m6i.metal,512.0 GiB,128 vCPUs,EBS only,50 Gigabit,6.14400
+R5 Metal,r5.metal,768.0 GiB,96 vCPUs,EBS only,25 Gigabit,6.04800
+R5 24xlarge,r5.24xlarge,768.0 GiB,96 vCPUs,EBS only,25 Gigabit,6.04800
+R6I 24xlarge,r6i.24xlarge,768.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,6.04800
+R7IZ 16xlarge,r7iz.16xlarge,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,5.95200
+R7IZ Metal-16xl,r7iz.metal-16xl,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,5.95200
+M5N 24xlarge,m5n.24xlarge,384.0 GiB,96 vCPUs,EBS only,100 Gigabit,5.71200
+M5N Metal,m5n.metal,384.0 GiB,96 vCPUs,EBS only,100 Gigabit,5.71200
+R8G Metal-24xl,r8g.metal-24xl,768.0 GiB,96 vCPUs,EBS only,40 Gigabit,5.65540
+R8G 24xlarge,r8g.24xlarge,768.0 GiB,96 vCPUs,EBS only,40 Gigabit,5.65540
+R6IN 16xlarge,r6in.16xlarge,512.0 GiB,64 vCPUs,EBS only,100 Gigabit,5.57860
+M7A 24xlarge,m7a.24xlarge,384.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,5.56420
+M6A 32xlarge,m6a.32xlarge,512.0 GiB,128 vCPUs,EBS only,50 Gigabit,5.52960
+R6A 24xlarge,r6a.24xlarge,768.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,5.44320
+C6IN 24xlarge,c6in.24xlarge,192.0 GiB,96 vCPUs,EBS only,150 Gigabit,5.44320
+C6I Metal,c6i.metal,256.0 GiB,128 vCPUs,EBS only,50 Gigabit,5.44000
+C6I 32xlarge,c6i.32xlarge,256.0 GiB,128 vCPUs,EBS only,50 Gigabit,5.44000
+R5A 24xlarge,r5a.24xlarge,768.0 GiB,96 vCPUs,EBS only,20 Gigabit,5.42400
+C7A 24xlarge,c7a.24xlarge,192.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.92670
+C6A 32xlarge,c6a.32xlarge,256.0 GiB,128 vCPUs,EBS only,50 Gigabit,4.89600
+R7A 16xlarge,r7a.16xlarge,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,4.86880
+M7I Metal-24xl,m7i.metal-24xl,384.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.83840
+M7I 24xlarge,m7i.24xlarge,384.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.83840
+R5N 16xlarge,r5n.16xlarge,512.0 GiB,64 vCPUs,EBS only,75 Gigabit,4.76800
+R5B 16xlarge,r5b.16xlarge,512.0 GiB,64 vCPUs,EBS only,20 Gigabit,4.76800
+M6I 24xlarge,m6i.24xlarge,384.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.60800
+M5 General Purpose 24xlarge,m5.24xlarge,384.0 GiB,96 vCPUs,EBS only,25 Gigabit,4.60800
+M5 General Purpose Metal,m5.metal,384.0 GiB,96 vCPUs,EBS only,25 Gigabit,4.60800
+R7IZ 12xlarge,r7iz.12xlarge,384.0 GiB,48 vCPUs,EBS only,25 Gigabit,4.46400
+M6IN 16xlarge,m6in.16xlarge,256.0 GiB,64 vCPUs,EBS only,100 Gigabit,4.45540
+M8G 24xlarge,m8g.24xlarge,384.0 GiB,96 vCPUs,EBS only,40 Gigabit,4.30850
+M8G Metal-24xl,m8g.metal-24xl,384.0 GiB,96 vCPUs,EBS only,40 Gigabit,4.30850
+C7I Metal-24xl,c7i.metal-24xl,192.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.28400
+C7I 24xlarge,c7i.24xlarge,192.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.28400
+R4 High-Memory 16xlarge,r4.16xlarge,488.0 GiB,64 vCPUs,EBS only,25 Gigabit,4.25600
+R7I 16xlarge,r7i.16xlarge,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,4.23360
+R6IN 12xlarge,r6in.12xlarge,384.0 GiB,48 vCPUs,EBS only,75 Gigabit,4.18390
+M6A 24xlarge,m6a.24xlarge,384.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.14720
+M5A 24xlarge,m5a.24xlarge,384.0 GiB,96 vCPUs,EBS only,20 Gigabit,4.12800
+C5 High-CPU Metal,c5.metal,192.0 GiB,96 vCPUs,EBS only,25 Gigabit,4.08000
+C6I 24xlarge,c6i.24xlarge,192.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,4.08000
+C5 High-CPU 24xlarge,c5.24xlarge,192.0 GiB,96 vCPUs,EBS only,25 Gigabit,4.08000
+R5 16xlarge,r5.16xlarge,512.0 GiB,64 vCPUs,EBS only,20 Gigabit,4.03200
+R6I 16xlarge,r6i.16xlarge,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,4.03200
+C7GN Metal,c7gn.metal,128.0 GiB,64 vCPUs,EBS only,200 Gigabit,3.99360
+C7GN 16xlarge,c7gn.16xlarge,128.0 GiB,64 vCPUs,EBS only,200 Gigabit,3.99360
+M5ZN Metal,m5zn.metal,192.0 GiB,48 vCPUs,EBS only,100 Gigabit,3.96410
+M5ZN 12xlarge,m5zn.12xlarge,192.0 GiB,48 vCPUs,EBS only,100 Gigabit,3.96410
+C5N 18xlarge,c5n.18xlarge,192.0 GiB,72 vCPUs,EBS only,100 Gigabit,3.88800
+C5N Metal,c5n.metal,192.0 GiB,72 vCPUs,EBS only,100 Gigabit,3.88800
+C8G 24xlarge,c8g.24xlarge,192.0 GiB,96 vCPUs,EBS only,40 Gigabit,3.81500
+C8G Metal-24xl,c8g.metal-24xl,192.0 GiB,96 vCPUs,EBS only,40 Gigabit,3.81500
+M5N 16xlarge,m5n.16xlarge,256.0 GiB,64 vCPUs,EBS only,75 Gigabit,3.80800
+R8G 16xlarge,r8g.16xlarge,512.0 GiB,64 vCPUs,EBS only,30 Gigabit,3.77020
+M7A 16xlarge,m7a.16xlarge,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.70940
+C5A 24xlarge,c5a.24xlarge,192.0 GiB,96 vCPUs,EBS only,20 Gigabit,3.69600
+C6A 24xlarge,c6a.24xlarge,192.0 GiB,96 vCPUs,EBS only,37.5 Gigabit,3.67200
+R7A 12xlarge,r7a.12xlarge,384.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,3.65160
+R6A 16xlarge,r6a.16xlarge,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.62880
+C6IN 16xlarge,c6in.16xlarge,128.0 GiB,64 vCPUs,EBS only,100 Gigabit,3.62880
+R5A 16xlarge,r5a.16xlarge,512.0 GiB,64 vCPUs,EBS only,12 Gigabit,3.61600
+R5B 12xlarge,r5b.12xlarge,384.0 GiB,48 vCPUs,EBS only,12 Gigabit,3.57600
+R5N 12xlarge,r5n.12xlarge,384.0 GiB,48 vCPUs,EBS only,50 Gigabit,3.57600
+R7G Metal,r7g.metal,512.0 GiB,64 vCPUs,EBS only,30 Gigabit,3.42720
+R7G 16xlarge,r7g.16xlarge,512.0 GiB,64 vCPUs,EBS only,30 Gigabit,3.42720
+M6IN 12xlarge,m6in.12xlarge,192.0 GiB,48 vCPUs,EBS only,75 Gigabit,3.34150
+X1E Quadruple Extra Large,x1e.4xlarge,488.0 GiB,16 vCPUs,480 GB                 SSD,Up to 10 Gigabit,3.33600
+C7A 16xlarge,c7a.16xlarge,128.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.28450
+M7I 16xlarge,m7i.16xlarge,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.22560
+R6G 16xlarge,r6g.16xlarge,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.22560
+R6G Metal,r6g.metal,512.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.22560
+M4 General Purpose 16xlarge,m4.16xlarge,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.20000
+R7I 12xlarge,r7i.12xlarge,384.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,3.17520
+M6I 16xlarge,m6i.16xlarge,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,3.07200
+M5 General Purpose 16xlarge,m5.16xlarge,256.0 GiB,64 vCPUs,EBS only,20 Gigabit,3.07200
+M7I-FLEX 16xlarge,m7i-flex.16xlarge,256.0 GiB,64 vCPUs,EBS only,Up to 25 Gigabit,3.06430
+C5 High-CPU 18xlarge,c5.18xlarge,144.0 GiB,72 vCPUs,EBS only,25 Gigabit,3.06000
+R6I 12xlarge,r6i.12xlarge,384.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,3.02400
+R5 12xlarge,r5.12xlarge,384.0 GiB,48 vCPUs,EBS only,12 Gigabit,3.02400
+C7GN 12xlarge,c7gn.12xlarge,96.0 GiB,48 vCPUs,EBS only,150 Gigabit,2.99520
+R7IZ Eight Extra Large,r7iz.8xlarge,256.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,2.97600
+M8G 16xlarge,m8g.16xlarge,256.0 GiB,64 vCPUs,EBS only,30 Gigabit,2.87230
+M5N 12xlarge,m5n.12xlarge,192.0 GiB,48 vCPUs,EBS only,50 Gigabit,2.85600
+C7I 16xlarge,c7i.16xlarge,128.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.85600
+R8G 12xlarge,r8g.12xlarge,384.0 GiB,48 vCPUs,EBS only,22.5 Gigabit,2.82770
+R6IN Eight Extra Large,r6in.8xlarge,256.0 GiB,32 vCPUs,EBS only,50 Gigabit,2.78930
+M7A 12xlarge,m7a.12xlarge,192.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.78210
+M6A 16xlarge,m6a.16xlarge,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.76480
+C6GN 16xlarge,c6gn.16xlarge,128.0 GiB,64 vCPUs,EBS only,100 Gigabit,2.76480
+M5A 16xlarge,m5a.16xlarge,256.0 GiB,64 vCPUs,EBS only,12 Gigabit,2.75200
+R6A 12xlarge,r6a.12xlarge,384.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.72160
+C6IN 12xlarge,c6in.12xlarge,96.0 GiB,48 vCPUs,EBS only,75 Gigabit,2.72160
+C6I 16xlarge,c6i.16xlarge,128.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.72000
+C7I-FLEX 16xlarge,c7i-flex.16xlarge,128.0 GiB,64 vCPUs,EBS only,Up to 25 Gigabit,2.71320
+R5A 12xlarge,r5a.12xlarge,384.0 GiB,48 vCPUs,EBS only,10 Gigabit,2.71200
+R3 High-Memory Eight Extra Large,r3.8xlarge,244.0 GiB,32 vCPUs,640 GB                 (2 * 320 GB SSD),10 Gigabit,2.65600
+M7G Metal,m7g.metal,256.0 GiB,64 vCPUs,EBS only,30 Gigabit,2.61120
+M7G 16xlarge,m7g.16xlarge,256.0 GiB,64 vCPUs,EBS only,30 Gigabit,2.61120
+R7G 12xlarge,r7g.12xlarge,384.0 GiB,48 vCPUs,EBS only,22.5 Gigabit,2.57040
+C8G 16xlarge,c8g.16xlarge,128.0 GiB,64 vCPUs,EBS only,30 Gigabit,2.54340
+C5A 16xlarge,c5a.16xlarge,128.0 GiB,64 vCPUs,EBS only,20 Gigabit,2.46400
+M6G Metal,m6g.metal,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.46400
+M6G 16xlarge,m6g.16xlarge,256.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.46400
+C7A 12xlarge,c7a.12xlarge,96.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.46340
+C6A 16xlarge,c6a.16xlarge,128.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.44800
+R7A Eight Extra Large,r7a.8xlarge,256.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,2.43440
+M7I 12xlarge,m7i.12xlarge,192.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.41920
+R6G 12xlarge,r6g.12xlarge,384.0 GiB,48 vCPUs,EBS only,20 Gigabit,2.41920
+R5N Eight Extra Large,r5n.8xlarge,256.0 GiB,32 vCPUs,EBS only,25 Gigabit,2.38400
+R5B Eight Extra Large,r5b.8xlarge,256.0 GiB,32 vCPUs,EBS only,10 Gigabit,2.38400
+C7G 16xlarge,c7g.16xlarge,128.0 GiB,64 vCPUs,EBS only,30 Gigabit,2.31230
+C7G Metal,c7g.metal,128.0 GiB,64 vCPUs,EBS only,30 Gigabit,2.31230
+M5 General Purpose 12xlarge,m5.12xlarge,192.0 GiB,48 vCPUs,EBS only,12 Gigabit,2.30400
+M6I 12xlarge,m6i.12xlarge,192.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.30400
+M7I-FLEX 12xlarge,m7i-flex.12xlarge,192.0 GiB,48 vCPUs,EBS only,Up to 18.75 Gigabit,2.29820
+M6IN Eight Extra Large,m6in.8xlarge,128.0 GiB,32 vCPUs,EBS only,50 Gigabit,2.22770
+C6G 16xlarge,c6g.16xlarge,128.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.17600
+C6G Metal,c6g.metal,128.0 GiB,64 vCPUs,EBS only,25 Gigabit,2.17600
+M8G 12xlarge,m8g.12xlarge,192.0 GiB,48 vCPUs,EBS only,22.5 Gigabit,2.15420
+C7I 12xlarge,c7i.12xlarge,96.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.14200
+R4 High-Memory Eight Extra Large,r4.8xlarge,244.0 GiB,32 vCPUs,EBS only,10 Gigabit,2.12800
+R7I Eight Extra Large,r7i.8xlarge,256.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,2.11680
+C6GN 12xlarge,c6gn.12xlarge,96.0 GiB,48 vCPUs,EBS only,75 Gigabit,2.07360
+M6A 12xlarge,m6a.12xlarge,192.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.07360
+M5A 12xlarge,m5a.12xlarge,192.0 GiB,48 vCPUs,EBS only,10 Gigabit,2.06400
+C6I 12xlarge,c6i.12xlarge,96.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,2.04000
+C5 High-CPU 12xlarge,c5.12xlarge,96.0 GiB,48 vCPUs,EBS only,12 Gigabit,2.04000
+C7I-FLEX 12xlarge,c7i-flex.12xlarge,96.0 GiB,48 vCPUs,EBS only,Up to 18.75 Gigabit,2.03490
+R5 Eight Extra Large,r5.8xlarge,256.0 GiB,32 vCPUs,EBS only,10 Gigabit,2.01600
+R6I Eight Extra Large,r6i.8xlarge,256.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,2.01600
+M4 General Purpose Deca Extra Large,m4.10xlarge,160.0 GiB,40 vCPUs,EBS only,10 Gigabit,2.00000
+C7GN Eight Extra Large,c7gn.8xlarge,64.0 GiB,32 vCPUs,EBS only,100 Gigabit,1.99680
+M5ZN 6xlarge,m5zn.6xlarge,96.0 GiB,24 vCPUs,EBS only,50 Gigabit,1.98200
+M7G 12xlarge,m7g.12xlarge,192.0 GiB,48 vCPUs,EBS only,22.5 Gigabit,1.95840
+C5N 9xlarge,c5n.9xlarge,96.0 GiB,36 vCPUs,EBS only,50 Gigabit,1.94400
+C8G 12xlarge,c8g.12xlarge,96.0 GiB,48 vCPUs,EBS only,22.5 Gigabit,1.90750
+M5N Eight Extra Large,m5n.8xlarge,128.0 GiB,32 vCPUs,EBS only,25 Gigabit,1.90400
+R8G Eight Extra Large,r8g.8xlarge,256.0 GiB,32 vCPUs,EBS only,15 Gigabit,1.88510
+M7A Eight Extra Large,m7a.8xlarge,128.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.85470
+C5A 12xlarge,c5a.12xlarge,96.0 GiB,48 vCPUs,EBS only,12 Gigabit,1.84800
+M6G 12xlarge,m6g.12xlarge,192.0 GiB,48 vCPUs,EBS only,20 Gigabit,1.84800
+C6A 12xlarge,c6a.12xlarge,96.0 GiB,48 vCPUs,EBS only,18.75 Gigabit,1.83600
+C6IN Eight Extra Large,c6in.8xlarge,64.0 GiB,32 vCPUs,EBS only,50 Gigabit,1.81440
+R6A Eight Extra Large,r6a.8xlarge,256.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.81440
+R5A Eight Extra Large,r5a.8xlarge,256.0 GiB,32 vCPUs,EBS only,Up to 10 Gigabit,1.80800
+C7G 12xlarge,c7g.12xlarge,96.0 GiB,48 vCPUs,EBS only,22.5 Gigabit,1.73420
+R7G Eight Extra Large,r7g.8xlarge,256.0 GiB,32 vCPUs,EBS only,15 Gigabit,1.71360
+X1E Double Extra Large,x1e.2xlarge,244.0 GiB,8 vCPUs,240 GB                 SSD,Up to 10 Gigabit,1.66800
+C7A Eight Extra Large,c7a.8xlarge,64.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.64220
+C6G 12xlarge,c6g.12xlarge,96.0 GiB,48 vCPUs,EBS only,20 Gigabit,1.63200
+M7I Eight Extra Large,m7i.8xlarge,128.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.61280
+R6G Eight Extra Large,r6g.8xlarge,256.0 GiB,32 vCPUs,EBS only,12 Gigabit,1.61280
+C4 High-CPU Eight Extra Large,c4.8xlarge,60.0 GiB,36 vCPUs,EBS only,10 Gigabit,1.59100
+M6I Eight Extra Large,m6i.8xlarge,128.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.53600
+M5 General Purpose Eight Extra Large,m5.8xlarge,128.0 GiB,32 vCPUs,EBS only,10 Gigabit,1.53600
+M7I-FLEX Eight Extra Large,m7i-flex.8xlarge,128.0 GiB,32 vCPUs,EBS only,Up to 12.5 Gigabit,1.53220
+C5 High-CPU 9xlarge,c5.9xlarge,72.0 GiB,36 vCPUs,EBS only,12 Gigabit,1.53000
+R7IZ Quadruple Extra Large,r7iz.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,1.48800
+M8G Eight Extra Large,m8g.8xlarge,128.0 GiB,32 vCPUs,EBS only,15 Gigabit,1.43620
+C7I Eight Extra Large,c7i.8xlarge,64.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.42800
+R6IN Quadruple Extra Large,r6in.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 50 Gigabit,1.39460
+M6A Eight Extra Large,m6a.8xlarge,128.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.38240
+C6GN Eight Extra Large,c6gn.8xlarge,64.0 GiB,32 vCPUs,EBS only,50 Gigabit,1.38240
+M5A Eight Extra Large,m5a.8xlarge,128.0 GiB,32 vCPUs,EBS only,Up to 10 Gigabit,1.37600
+C6I Eight Extra Large,c6i.8xlarge,64.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.36000
+C7I-FLEX Eight Extra Large,c7i-flex.8xlarge,64.0 GiB,32 vCPUs,EBS only,Up to 12.5 Gigabit,1.35660
+R3 High-Memory Quadruple Extra Large,r3.4xlarge,122.0 GiB,16 vCPUs,320 GB                 SSD,High,1.32800
+M7G Eight Extra Large,m7g.8xlarge,128.0 GiB,32 vCPUs,EBS only,15 Gigabit,1.30560
+C8G Eight Extra Large,c8g.8xlarge,64.0 GiB,32 vCPUs,EBS only,15 Gigabit,1.27170
+C5A Eight Extra Large,c5a.8xlarge,64.0 GiB,32 vCPUs,EBS only,10 Gigabit,1.23200
+M6G Eight Extra Large,m6g.8xlarge,128.0 GiB,32 vCPUs,EBS only,12 Gigabit,1.23200
+C6A Eight Extra Large,c6a.8xlarge,64.0 GiB,32 vCPUs,EBS only,12.5 Gigabit,1.22400
+R7A Quadruple Extra Large,r7a.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,1.21720
+R5B Quadruple Extra Large,r5b.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,1.19200
+R5N Quadruple Extra Large,r5n.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 25 Gigabit,1.19200
+C7G Eight Extra Large,c7g.8xlarge,64.0 GiB,32 vCPUs,EBS only,15 Gigabit,1.15620
+M6IN Quadruple Extra Large,m6in.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 50 Gigabit,1.11380
+C6G Eight Extra Large,c6g.8xlarge,64.0 GiB,32 vCPUs,EBS only,12 Gigabit,1.08800
+R4 High-Memory Quadruple Extra Large,r4.4xlarge,122.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,1.06400
+R7I Quadruple Extra Large,r7i.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,1.05840
+R5 Quadruple Extra Large,r5.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,1.00800
+R6I Quadruple Extra Large,r6i.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,1.00800
+C7GN Quadruple Extra Large,c7gn.4xlarge,32.0 GiB,16 vCPUs,EBS only,50 Gigabit,0.99840
+M5ZN 3xlarge,m5zn.3xlarge,48.0 GiB,12 vCPUs,EBS only,Up to 25 Gigabit,0.99100
+M5N Quadruple Extra Large,m5n.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 25 Gigabit,0.95200
+R8G Quadruple Extra Large,r8g.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 15 Gigabit,0.94260
+M7A Quadruple Extra Large,m7a.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.92740
+R6A Quadruple Extra Large,r6a.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.90720
+C6IN Quadruple Extra Large,c6in.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 50 Gigabit,0.90720
+R5A Quadruple Extra Large,r5a.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.90400
+C5N Quadruple Extra Large,c5n.4xlarge,42.0 GiB,16 vCPUs,EBS only,Up to 25 Gigabit,0.86400
+R7G Quadruple Extra Large,r7g.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 15 Gigabit,0.85680
+X1E Extra Large,x1e.xlarge,122.0 GiB,4 vCPUs,120 GB                 SSD,Up to 10 Gigabit,0.83400
+C7A Quadruple Extra Large,c7a.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.82110
+M7I Quadruple Extra Large,m7i.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.80640
+R6G Quadruple Extra Large,r6g.4xlarge,128.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.80640
+M4 General Purpose Quadruple Extra Large,m4.4xlarge,64.0 GiB,16 vCPUs,EBS only,High,0.80000
+C4 High-CPU Quadruple Extra Large,c4.4xlarge,30.0 GiB,16 vCPUs,EBS only,High,0.79600
+M5 General Purpose Quadruple Extra Large,m5.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.76800
+M6I Quadruple Extra Large,m6i.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.76800
+M7I-FLEX Quadruple Extra Large,m7i-flex.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.76610
+R7IZ Double Extra Large,r7iz.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.74400
+M8G Quadruple Extra Large,m8g.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 15 Gigabit,0.71810
+C7I Quadruple Extra Large,c7i.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.71400
+R6IN Double Extra Large,r6in.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 40 Gigabit,0.69730
+C6GN Quadruple Extra Large,c6gn.4xlarge,32.0 GiB,16 vCPUs,EBS only,25 Gigabit,0.69120
+M6A Quadruple Extra Large,m6a.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.69120
+M5A Quadruple Extra Large,m5a.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.68800
+C5 High-CPU Quadruple Extra Large,c5.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.68000
+C6I Quadruple Extra Large,c6i.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.68000
+C7I-FLEX Quadruple Extra Large,c7i-flex.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.67830
+R3 High-Memory Double Extra Large,r3.2xlarge,61.0 GiB,8 vCPUs,160 GB                 SSD,High,0.66400
+M5ZN Double Extra Large,m5zn.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 25 Gigabit,0.66070
+M7G Quadruple Extra Large,m7g.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 15 Gigabit,0.65280
+C8G Quadruple Extra Large,c8g.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 15 Gigabit,0.63580
+M6G Quadruple Extra Large,m6g.4xlarge,64.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.61600
+C5A Quadruple Extra Large,c5a.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.61600
+C6A Quadruple Extra Large,c6a.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 12.5 Gigabit,0.61200
+R7A Double Extra Large,r7a.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.60860
+R5B Double Extra Large,r5b.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.59600
+R5N Double Extra Large,r5n.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 25 Gigabit,0.59600
+C7G Quadruple Extra Large,c7g.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 15 Gigabit,0.57810
+M6IN Double Extra Large,m6in.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 40 Gigabit,0.55690
+C6G Quadruple Extra Large,c6g.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.54400
+R4 High-Memory Double Extra Large,r4.2xlarge,61.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.53200
+R7I Double Extra Large,r7i.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.52920
+R5 Double Extra Large,r5.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.50400
+R6I Double Extra Large,r6i.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.50400
+C7GN Double Extra Large,c7gn.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 50 Gigabit,0.49920
+M5N Double Extra Large,m5n.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 25 Gigabit,0.47600
+R8G Double Extra Large,r8g.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 15 Gigabit,0.47130
+M7A Double Extra Large,m7a.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.46370
+C6IN Double Extra Large,c6in.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 40 Gigabit,0.45360
+R6A Double Extra Large,r6a.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.45360
+R5A Double Extra Large,r5a.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.45200
+C5N Double Extra Large,c5n.2xlarge,21.0 GiB,8 vCPUs,EBS only,Up to 25 Gigabit,0.43200
+R7G Double Extra Large,r7g.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 15 Gigabit,0.42840
+C7A Double Extra Large,c7a.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.41060
+A1 Quadruple Extra Large,a1.4xlarge,32.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.40800
+A1 Metal,a1.metal,32.0 GiB,16 vCPUs,EBS only,Up to 10 Gigabit,0.40800
+M7I Double Extra Large,m7i.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.40320
+R6G Double Extra Large,r6g.2xlarge,64.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.40320
+M4 General Purpose Double Extra Large,m4.2xlarge,32.0 GiB,8 vCPUs,EBS only,High,0.40000
+C4 High-CPU Double Extra Large,c4.2xlarge,15.0 GiB,8 vCPUs,EBS only,High,0.39800
+M6I Double Extra Large,m6i.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.38400
+M5 General Purpose Double Extra Large,m5.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.38400
+M7I-FLEX Double Extra Large,m7i-flex.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.38300
+R7IZ Extra Large,r7iz.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.37200
+T2 Double Extra Large,t2.2xlarge,32.0 GiB,8 vCPUs                                                         for a                   4h 4.8m                   burst,EBS only,Moderate,0.37120
+M8G Double Extra Large,m8g.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 15 Gigabit,0.35900
+C7I Double Extra Large,c7i.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.35700
+R6IN Extra Large,r6in.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 30 Gigabit,0.34870
+M6A Double Extra Large,m6a.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.34560
+C6GN Double Extra Large,c6gn.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 25 Gigabit,0.34560
+M5A Double Extra Large,m5a.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.34400
+C5 High-CPU Double Extra Large,c5.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.34000
+C6I Double Extra Large,c6i.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.34000
+C7I-FLEX Double Extra Large,c7i-flex.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.33920
+T3 Double Extra Large,t3.2xlarge,32.0 GiB,8 vCPUs                                                         for a                   9h 36m                   burst,EBS only,Up to 5 Gigabit,0.33280
+R3 High-Memory Extra Large,r3.xlarge,30.5 GiB,4 vCPUs,80 GB                 SSD,Moderate,0.33200
+M5ZN Extra Large,m5zn.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 25 Gigabit,0.33030
+M7G Double Extra Large,m7g.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 15 Gigabit,0.32640
+C8G Double Extra Large,c8g.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 15 Gigabit,0.31790
+M6G Double Extra Large,m6g.2xlarge,32.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.30800
+C5A Double Extra Large,c5a.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.30800
+C6A Double Extra Large,c6a.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 12.5 Gigabit,0.30600
+R7A Extra Large,r7a.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.30430
+T3A Double Extra Large,t3a.2xlarge,32.0 GiB,8 vCPUs                                                         for a                   9h 36m                   burst,EBS only,Up to 5 Gigabit,0.30080
+R5N Extra Large,r5n.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 25 Gigabit,0.29800
+R5B Extra Large,r5b.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.29800
+C7G Double Extra Large,c7g.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 15 Gigabit,0.28900
+M6IN Extra Large,m6in.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 30 Gigabit,0.27850
+C6G Double Extra Large,c6g.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.27200
+T4G Double Extra Large,t4g.2xlarge,32.0 GiB,8 vCPUs                                                         for a                   9h 36m                   burst,EBS only,Up to 5 Gigabit,0.26880
+R4 High-Memory Extra Large,r4.xlarge,30.5 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.26600
+R7I Extra Large,r7i.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.26460
+R6I Extra Large,r6i.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.25200
+R5 Extra Large,r5.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.25200
+C7GN Extra Large,c7gn.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 40 Gigabit,0.24960
+M5N Extra Large,m5n.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 25 Gigabit,0.23800
+R8G Extra Large,r8g.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.23560
+M7A Extra Large,m7a.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.23180
+R6A Extra Large,r6a.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.22680
+C6IN Extra Large,c6in.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 30 Gigabit,0.22680
+R5A Extra Large,r5a.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.22600
+C5N Extra Large,c5n.xlarge,10.5 GiB,4 vCPUs,EBS only,Up to 25 Gigabit,0.21600
+R7G Extra Large,r7g.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.21420
+C7A Extra Large,c7a.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.20530
+A1 Double Extra Large,a1.2xlarge,16.0 GiB,8 vCPUs,EBS only,Up to 10 Gigabit,0.20400
+M7I Extra Large,m7i.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.20160
+R6G Extra Large,r6g.xlarge,32.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.20160
+M4 General Purpose Extra Large,m4.xlarge,16.0 GiB,4 vCPUs,EBS only,High,0.20000
+C4 High-CPU Extra Large,c4.xlarge,7.5 GiB,4 vCPUs,EBS only,High,0.19900
+M5 General Purpose Extra Large,m5.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.19200
+M6I Extra Large,m6i.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.19200
+M7I-FLEX Extra Large,m7i-flex.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.19150
+R7IZ Large,r7iz.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.18600
+T2 Extra Large,t2.xlarge,16.0 GiB,4 vCPUs                                                         for a                   5h 24m                   burst,EBS only,Moderate,0.18560
+M8G Extra Large,m8g.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.17950
+C7I Extra Large,c7i.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.17850
+R6IN Large,r6in.large,16.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.17430
+M6A Extra Large,m6a.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.17280
+C6GN Extra Large,c6gn.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 25 Gigabit,0.17280
+M5A Extra Large,m5a.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.17200
+C5 High-CPU Extra Large,c5.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.17000
+C6I Extra Large,c6i.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.17000
+C7I-FLEX Extra Large,c7i-flex.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.16960
+T3 Extra Large,t3.xlarge,16.0 GiB,4 vCPUs                                                         for a                   9h 36m                   burst,EBS only,Up to 5 Gigabit,0.16640
+R3 High-Memory Large,r3.large,15.25 GiB,2 vCPUs,32 GB                 SSD,Moderate,0.16600
+M5ZN Large,m5zn.large,8.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.16520
+M7G Extra Large,m7g.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.16320
+C8G Extra Large,c8g.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.15900
+C5A Extra Large,c5a.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.15400
+M6G Extra Large,m6g.xlarge,16.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.15400
+C6A Extra Large,c6a.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.15300
+R7A Large,r7a.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.15220
+T3A Extra Large,t3a.xlarge,16.0 GiB,4 vCPUs                                                         for a                   9h 36m                   burst,EBS only,Up to 5 Gigabit,0.15040
+R5B Large,r5b.large,16.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.14900
+R5N Large,r5n.large,16.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.14900
+C7G Extra Large,c7g.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 12.5 Gigabit,0.14450
+M6IN Large,m6in.large,8.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.13920
+C6G Extra Large,c6g.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.13600
+T4G Extra Large,t4g.xlarge,16.0 GiB,4 vCPUs                                                         for a                   9h 36m                   burst,EBS only,Up to 5 Gigabit,0.13440
+R4 High-Memory Large,r4.large,15.25 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.13300
+R7I Large,r7i.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.13230
+R6I Large,r6i.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.12600
+R5 Large,r5.large,16.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.12600
+C7GN Large,c7gn.large,4.0 GiB,2 vCPUs,EBS only,Up to 30 Gigabit,0.12480
+M5N Large,m5n.large,8.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.11900
+R8G Large,r8g.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.11780
+M7A Large,m7a.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.11590
+R6A Large,r6a.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.11340
+C6IN Large,c6in.large,4.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.11340
+R5A Large,r5a.large,16.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.11300
+C5N Large,c5n.large,5.25 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.10800
+R7G Large,r7g.large,16.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.10710
+C7A Large,c7a.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.10260
+A1 Extra Large,a1.xlarge,8.0 GiB,4 vCPUs,EBS only,Up to 10 Gigabit,0.10200
+M7I Large,m7i.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.10080
+R6G Large,r6g.large,16.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.10080
+C4 High-CPU Large,c4.large,3.75 GiB,2 vCPUs,EBS only,Moderate,0.10000
+M4 General Purpose Large,m4.large,8.0 GiB,2 vCPUs,EBS only,Moderate,0.10000
+M6I Large,m6i.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.09600
+M5 General Purpose Large,m5.large,8.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.09600
+M7I-FLEX Large,m7i-flex.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.09580
+T2 Large,t2.large,8.0 GiB,2 vCPUs                                                         for a                   7h 12m                   burst,EBS only,Low to Moderate,0.09280
+M8G Large,m8g.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.08980
+C7I Large,c7i.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.08920
+M6A Large,m6a.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.08640
+C6GN Large,c6gn.large,4.0 GiB,2 vCPUs,EBS only,Up to 25 Gigabit,0.08640
+M5A Large,m5a.large,8.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.08600
+C6I Large,c6i.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.08500
+C5 High-CPU Large,c5.large,4.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.08500
+C7I-FLEX Large,c7i-flex.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.08480
+T3 Large,t3.large,8.0 GiB,2 vCPUs                                                         for a                   7h 12m                   burst,EBS only,Up to 5 Gigabit,0.08320
+M7G Large,m7g.large,8.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.08160
+C8G Large,c8g.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.07950
+M6G Large,m6g.large,8.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.07700
+C5A Large,c5a.large,4.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.07700
+C6A Large,c6a.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.07650
+R7A Medium,r7a.medium,8.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.07610
+T3A Large,t3a.large,8.0 GiB,2 vCPUs                                                         for a                   7h 12m                   burst,EBS only,Up to 5 Gigabit,0.07520
+C7G Large,c7g.large,4.0 GiB,2 vCPUs,EBS only,Up to 12.5 Gigabit,0.07230
+C6G Large,c6g.large,4.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.06800
+T4G Large,t4g.large,8.0 GiB,2 vCPUs                                                         for a                   7h 12m                   burst,EBS only,Up to 5 Gigabit,0.06720
+C7GN Medium,c7gn.medium,2.0 GiB,1 vCPUs,EBS only,Up to 25 Gigabit,0.06240
+R8G Medium,r8g.medium,8.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.05890
+M7A Medium,m7a.medium,4.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.05800
+R7G Medium,r7g.medium,8.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.05360
+C7A Medium,c7a.medium,2.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.05130
+A1 Large,a1.large,4.0 GiB,2 vCPUs,EBS only,Up to 10 Gigabit,0.05100
+R6G Medium,r6g.medium,8.0 GiB,1 vCPUs,EBS only,Up to 10 Gigabit,0.05040
+T2 Medium,t2.medium,4.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Low to Moderate,0.04640
+M8G Medium,m8g.medium,4.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.04490
+C6GN Medium,c6gn.medium,2.0 GiB,1 vCPUs,EBS only,Up to 16 Gigabit,0.04320
+T3 Medium,t3.medium,4.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Up to 5 Gigabit,0.04160
+M7G Medium,m7g.medium,4.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.04080
+C8G Medium,c8g.medium,2.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.03970
+M6G Medium,m6g.medium,4.0 GiB,1 vCPUs,EBS only,Up to 10 Gigabit,0.03850
+T3A Medium,t3a.medium,4.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Up to 5 Gigabit,0.03760
+C7G Medium,c7g.medium,2.0 GiB,1 vCPUs,EBS only,Up to 12.5 Gigabit,0.03610
+C6G Medium,c6g.medium,2.0 GiB,1 vCPUs,EBS only,Up to 10 Gigabit,0.03400
+T4G Medium,t4g.medium,4.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Up to 5 Gigabit,0.03360
+A1 Medium,a1.medium,2.0 GiB,1 vCPUs,EBS only,Up to 10 Gigabit,0.02550
+T2 Small,t2.small,2.0 GiB,1 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Low to Moderate,0.02300
+T3 Small,t3.small,2.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Up to 5 Gigabit,0.02080
+T3A Small,t3a.small,2.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Up to 5 Gigabit,0.01880
+T4G Small,t4g.small,2.0 GiB,2 vCPUs                                                         for a                   4h 48m                   burst,EBS only,Up to 5 Gigabit,0.01680
+T2 Micro,t2.micro,1.0 GiB,1 vCPUs                                                         for a                   2h 24m                   burst,EBS only,Low to Moderate,0.01160
+T3 Micro,t3.micro,1.0 GiB,2 vCPUs                                                         for a                   2h 24m                   burst,EBS only,Up to 5 Gigabit,0.01040
+T3A Micro,t3a.micro,1.0 GiB,2 vCPUs                                                         for a                   2h 24m                   burst,EBS only,Up to 5 Gigabit,0.00940
+T4G Micro,t4g.micro,1.0 GiB,2 vCPUs                                                         for a                   2h 24m                   burst,EBS only,Up to 5 Gigabit,0.00840
+T2 Nano,t2.nano,0.5 GiB,1 vCPUs                                                         for a                   1h 12m                   burst,EBS only,Low to Moderate,0.00580
+T3 Nano,t3.nano,0.5 GiB,2 vCPUs                                                         for a                   1h 12m                   burst,EBS only,Up to 5 Gigabit,0.00520
+T3A Nano,t3a.nano,0.5 GiB,2 vCPUs                                                         for a                   1h 12m                   burst,EBS only,Up to 5 Gigabit,0.00470
+T4G Nano,t4g.nano,0.5 GiB,2 vCPUs                                                         for a                   1h 12m                   burst,EBS only,Up to 5 Gigabit,0.00420
